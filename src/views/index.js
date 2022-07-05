@@ -1,5 +1,5 @@
-import ExternalApi from "./external-api";
+import Research from "./research";
 import Home from "./home";
 import Profile from "./profile";
 
-export { ExternalApi, Home, Profile };
+export { Research, Home, Profile };

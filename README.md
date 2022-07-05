@@ -1,6 +1,6 @@
-# Easy User Authentication for React Apps
+# Research AI 
 
-This repository hosts a React project that defines a Single-Page Application (SPA). You'll secure access to some of its routes using Auth0 User Authentication.
+This repository hosts a React project that uses GPT-3 OpenAI models to help solve research issues
 
 ## Get Started
 
@@ -18,4 +18,4 @@ npm start
 
 The application runs by on port `4040` to mitigate conflicting with other client applications you may be running.
 
-Visit [`http://localhost:4040/`](http://localhost:4040/) to access the starter application.
+Visit [`http://localhost:4040/`](http://localhost:4040/) to access the research application.
