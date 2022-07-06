@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/researchAI/static/css/main.5bb8ad83.chunk.css",
-    "main.js": "/researchAI/static/js/main.30c698e3.chunk.js",
-    "main.js.map": "/researchAI/static/js/main.30c698e3.chunk.js.map",
-    "runtime-main.js": "/researchAI/static/js/runtime-main.10ad9710.js",
-    "runtime-main.js.map": "/researchAI/static/js/runtime-main.10ad9710.js.map",
-    "static/js/2.1c20ed96.chunk.js": "/researchAI/static/js/2.1c20ed96.chunk.js",
-    "static/js/2.1c20ed96.chunk.js.map": "/researchAI/static/js/2.1c20ed96.chunk.js.map",
-    "index.html": "/researchAI/index.html",
-    "static/css/main.5bb8ad83.chunk.css.map": "/researchAI/static/css/main.5bb8ad83.chunk.css.map",
-    "static/js/2.1c20ed96.chunk.js.LICENSE.txt": "/researchAI/static/js/2.1c20ed96.chunk.js.LICENSE.txt"
+    "main.css": "./researchAI/static/css/main.5bb8ad83.chunk.css",
+    "main.js": "./researchAI/static/js/main.30c698e3.chunk.js",
+    "main.js.map": "./researchAI/static/js/main.30c698e3.chunk.js.map",
+    "runtime-main.js": "./researchAI/static/js/runtime-main.c2b2f79f.js",
+    "runtime-main.js.map": "./researchAI/static/js/runtime-main.c2b2f79f.js.map",
+    "static/js/2.1c20ed96.chunk.js": "./researchAI/static/js/2.1c20ed96.chunk.js",
+    "static/js/2.1c20ed96.chunk.js.map": "./researchAI/static/js/2.1c20ed96.chunk.js.map",
+    "index.html": "./researchAI/index.html",
+    "static/css/main.5bb8ad83.chunk.css.map": "./researchAI/static/css/main.5bb8ad83.chunk.css.map",
+    "static/js/2.1c20ed96.chunk.js.LICENSE.txt": "./researchAI/static/js/2.1c20ed96.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.10ad9710.js",
+    "static/js/runtime-main.c2b2f79f.js",
     "static/js/2.1c20ed96.chunk.js",
     "static/css/main.5bb8ad83.chunk.css",
     "static/js/main.30c698e3.chunk.js"
